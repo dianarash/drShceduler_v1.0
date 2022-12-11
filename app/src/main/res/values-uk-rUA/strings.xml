@@ -12,7 +12,7 @@
     <string name="btn_schedule">Розклад</string>
     <string name="btn_settings">Налаштування</string>
     <string name="tit_studentid">ID студента</string>
-    <string name="tit_faculty">факультет</string>
+    <string name="tit_faculty">Факультет</string>
     <string name="tit_specialty">Спеціальність</string>
     <string name="tit_group">Група</string>
     <string name="tit_term">Термін</string>
